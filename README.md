@@ -38,6 +38,30 @@ Join our [Discord](https://discord.gg/ugyc4EVUYZ) if you have any problems or wa
 |                              | [Vigilante](#vigilante)           |                                  |                              |
 |                              | [Warden](#warden)                 |                                  |                              |
 -----------------------
+
+# Table of Contents
+- [Releases](#releases)
+- [Installation](#installation)
+  - [Requirements](#requirements)
+  - [Installation Guide (Steam)](#installation-guide-steam)
+  - [Installation Guide (Epic Games)](#installation-guide-epic-games)
+- [Issues](#issues)
+- [Roles](#roles)
+  - [Crewmate Roles](#crewmate-roles)
+  - [Neutral Roles](#neutral-roles)
+  - [Impostor Roles](#impostor-roles)
+  - [Modifiers](#modifiers)
+- [Role List Settings](#role-list-settings)
+- [Map Settings](#map-settings)
+- [Better Polus Settings](#better-polus-settings)
+- [Custom Game Options](#custom-game-options)
+- [Task Tracking Settings](#task-tracking-settings)
+- [Assassin Ability](#assassin-ability)
+- [Extras](#extras)
+- [Bug / Suggestions](#bug--suggestions)
+- [Credits & Resources](#credits--resources)
+
+-----------------------
 # Releases
 | Among Us - Version| Mod Version | Link |
 |----------|-------------|-----------------|
